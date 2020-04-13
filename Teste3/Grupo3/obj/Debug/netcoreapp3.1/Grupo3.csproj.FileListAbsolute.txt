@@ -1,0 +1,8 @@
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.deps.json
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.pdb
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.csprojAssemblyReference.cache
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfoInputs.cache
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfo.cs
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Marco Pereira\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.pdb
